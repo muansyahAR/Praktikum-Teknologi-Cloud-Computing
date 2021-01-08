@@ -1,7 +1,7 @@
 # Software as a Service (SaaS)<BR>
 ## 1. Google Keep
 
-Pertama praktik di ajartan tentang Google keep, Google keep digunakan untuk menuliskan catatan-catatan, pengingat sebuah kegiatan yang kadang kita sering terlupakan. Google keep juga bisa menggunakan penambahan label centang maupun label pemilihan pada setiap kolomnya. Google keep juga memungkinkan pengguna untuk membagikan catatan mereka kepaa teman-teman meraka secara umum.
+Google keep digunakan untuk menuliskan catatan-catatan, pengingat sebuah kegiatan yang kadang kita sering terlupakan. Google keep juga bisa menggunakan penambahan label centang maupun label pemilihan pada setiap kolomnya. Google keep juga memungkinkan pengguna untuk membagikan catatan mereka kepaa teman-teman meraka secara umum.
 Seperti berikut tampilan dari Google keep :
 <br>![alt text](1-keep.JPG)
 ## 2. Google Formulir
