@@ -13,5 +13,5 @@ Berikut gambar tentang Google Formulir :
 ## 3. Google Dokumen 
 
 Google dokumen digunakan untuk membuat dokumen fungsinya juga seperti office word. Namun di dalam google dokumen ini tugas pembuatan dokumen bisa di bagi atau bisa di kerjakan bersama dengan teman atau patner kerja. Dengan menghubungkan dengan gmail yang digunakan untuk login.
-contoh google dokumen, dengan mengisi identitas kelompok.
+contoh google dokumen:
 <br> ![alt text](3-GDocs.png)
